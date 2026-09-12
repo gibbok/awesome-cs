@@ -42,7 +42,7 @@
 ## Books
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html)
 * [Programming Language Foundations in Agda](https://plfa.github.io/)
-* [The Concise TypeScript Book (italiano)](https://gibbok.github.io/typescript-book/it-it/)
+* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Security Engineering - A Guide to Building
 Dependable Distributed Systems](https://www.cl.cam.ac.uk/~rja14/book.html)
